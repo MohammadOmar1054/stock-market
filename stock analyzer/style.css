@@ -1,0 +1,28 @@
+body {
+  background: #0e1117;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+input, button {
+  padding: 10px;
+  margin: 10px;
+  font-size: 16px;
+}
+
+button {
+  background: #00c805;
+  border: none;
+  cursor: pointer;
+}
+
+#chart {
+  height: 500px;
+  margin-top: 20px;
+}
